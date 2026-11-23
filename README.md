@@ -1,4 +1,9 @@
 ## Hi there 👋
+# Hi, I'm Hamzeh Abusamin
+
+## About Me
+
+I'm a computer science student at UIC. I've been learning C++ in my programming classes, and one thing I've gotten better at is testing a program one part at a time when something goes wrong. On this portfolio, I'll share projects I've worked on and explain what I built and what I learned.
 
 <!--
 **hamzehabus0810/hamzehabus0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
